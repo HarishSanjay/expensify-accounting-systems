@@ -1,7 +1,7 @@
 expensify:
   url: https://integrations.expensify.com/Integration-Server/ExpensifyIntegrations
   partnerUserId: aa_harishsanjay48_gmail_com
-  partnerUserSecret: 3c075ddaa020a01e9a038049ede63ea22c0f7fb0
+  partnerUserSecret: 
   templateFilePath: D:\\Project\\expensify-accounting-systems\\src\\main\\resources\\expensify_template.ftl
 spring:
   application:
@@ -9,7 +9,7 @@ spring:
     
   data:
     mongodb:
-      uri: mongodb+srv://mongo-user:harish12@expensify-accounting-sy.qjrva.mongodb.net/?retryWrites=true&w=majority&appName=expensify-accounting-systems
+      uri: 
       database: accounting-systems
 
 logging:
